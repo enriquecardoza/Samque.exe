@@ -4,7 +4,7 @@ Project focused in the level editor and data manipulation, also there is the opt
 
 Project working on progress, please consider that there may be errors.
 
-To do:
+Some elements to do:
 
 -Mobile version.
 -Upgrade loading data perfomance.
